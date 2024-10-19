@@ -1,0 +1,8 @@
+/.minecraft/libraries
+/.minecraft/assets
+/.minecraft/.fabric
+/.minecraft/logs
+/.minecraft/downloads
+/.minecraft/data
+/.minecraft/realms_persistence.json
+/hmcl.json
