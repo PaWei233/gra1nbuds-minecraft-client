@@ -6,3 +6,15 @@
 /.minecraft/data
 /.minecraft/realms_persistence.json
 /hmcl.json
+/.minecraft/CustomSkinLoader
+/.minecraft/journeymap/data
+/.minecraft/journeymap/icon
+/.minecraft/journeymap/journeymap.log
+/.minecraft/saves
+/.minecraft/schematics
+/.minecraft/usercache.json
+/.minecraft/crash-reports
+/.minecraft/screenshots
+/.minecraft/versions/*/natives-windows-x86_64
+/.minecraft/versions/*/.abnormal
+/.minecraft/config/clientcommands/mappings
